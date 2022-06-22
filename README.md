@@ -1,4 +1,4 @@
-# The Aces Grocery Shopping Application
+# The Kiran Grocery Shopping Application
 
 
 ### Deployment
